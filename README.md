@@ -1,5 +1,4 @@
 # Should-decommissioned-fossil-fuel-power-plants-be-preserved-as-industrial-heritage-
-dataset and others
 Data source
 This dataset draws on a survey conducted within the framework of the INNOREJUST project. The full questionnaire and complete dataset can be consulted in:
 García Docampo M, Sanz-Hernández A, Pérez-Sindín XS, Alonso-Domínguez À, Marcos Santiago M, Rodríguez Pacios A. Database and primary report related to the survey “The energy transition in Spain: Public opinion” [Dataset]. 2025. https://www.researchgate.net/publication/392324223
